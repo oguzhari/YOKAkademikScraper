@@ -13,12 +13,17 @@ Eğer istediğiniz sonuçlar buradaysa, bu anahtar kelimeyi doğrudan programa i
 ![Screenshot](image/yokakademik3.png)
 
 Programın 2 temel aşaması vardır.
+
 1 - Anahtar kelimeyle gelen bütün akademisyenleri alıp kaydetmek, 
+
 2 - Kaydedilen bütün akademisyenlerin profilinde gezerek her profilden akademisyenlere ait bilgileri almak. 
 
 Programın 2 temel modu vardır.
+
 1 - Sıfırdan bir proje başlatabilirsiniz. Bu proje ile akademisyenleri belirlediğiniz anahtar kelime ile arayabilirsiniz. Arama tamamlanıp, bütün akademisyenlerin temel bilgileri (GUID) elde edildikten sonra, program size profil gezme işlemini şimdi yapıp yapmak istemediğinizi soracaktır. Eğer istemezseniz kapatabilir, kaldığınız yerden daha sonra devam edebilirsiniz.
+
 2 - Mevcut bir projeden devam etmek. Mevcut projeden devam etmek isterseniz proje anahtar kelimesini tekrar girmeniz gerekecektir. Örneğin daha öncesinde "yönetim bilişim sistemleri" isimli bir arama yaptıysanız, birebir aynı kelime yazmanız gerekiyor. 
+
 Program profilleri gezerken kapatılırsa, tekrar açıldığında sıfırdan başlar ve mevcut dosyaların üzerine yazarak devam eder.
 
 ## Önemli Uyarı
