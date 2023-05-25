@@ -21,7 +21,7 @@ Programın 2 temel modu vardır.
 2 - Mevcut bir projeden devam etmek. Mevcut projeden devam etmek isterseniz proje anahtar kelimesini tekrar girmeniz gerekecektir. Örneğin daha öncesinde "yönetim bilişim sistemleri" isimli bir arama yaptıysanız, birebir aynı kelime yazmanız gerekiyor. 
 Program profilleri gezerken kapatılırsa, tekrar açıldığında sıfırdan başlar ve mevcut dosyaların üzerine yazarak devam eder.
 
-##Önemli Uyarı
+## Önemli Uyarı
 Eğer çalışma OneDrive / Google Drive gibi sürekli yedeklenen bir klasörde çalışıyorsa 'dosya bulunamadı' hatası alabilirsiniz. Programı yedeklenmeyen bir yerde çalıştırın lütfen.
 
 sorularınız için bana ulaşabilirsiniz. oari@sakarya.edu.tr
